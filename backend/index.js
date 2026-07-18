@@ -207,7 +207,11 @@ app.post("/newOrder", async (req, res) => {
   res.send("orderSaved");
 });
 
-app.listen(3002, () => {
+app.get("/", (req, res) => {
+  res.send("Zerodha Backend Running 🚀");
+});
+
+app.listen(PORT, () => {
   console.log("APP started");
   mongoose.connect(url);
   console.log("DB connected");
