@@ -5,7 +5,7 @@ function Hero() {
     <section className="container-fluid " id="supportHero">
       <div className="p-5" id="supportWrapper">
         <h4>Support Portal</h4>
-        <a href="#">Track Tickets</a>
+        <a href="/">Track Tickets</a>
       </div>
 
       <div className="row p-3 m-5">
@@ -18,18 +18,18 @@ function Hero() {
             placeholder="Eg. how do i activate F&Q, why is my order getting rejected..."
           />
           <br></br>
-          <a href="#" className="p-4">
+          <a href="/" className="p-4">
             Track account opening
           </a>
-          <a href="#" className="p-4">
+          <a href="/" className="p-4">
             {" "}
             Track segment activation
           </a>
-          <a href="#" className="p-4">
+          <a href="/" className="p-4">
             {" "}
             Intraday margins
           </a>
-          <a href="#" className="p-4">
+          <a href="/" className="p-4">
             {" "}
             Kite user manual
           </a>
@@ -38,14 +38,14 @@ function Hero() {
           <h1 className="fs-3">Features</h1>
           <ol>
             <li>
-              <a href="#">
+              <a href="/">
                 {" "}
                 Current Takeovers and Delisting - January 2024
               </a>{" "}
             </li>
             <li>
               {" "}
-              <a href="#">Latest Intraday leverages-MIS & CO</a>{" "}
+              <a href="/">Latest Intraday leverages-MIS & CO</a>{" "}
             </li>
           </ol>
         </div>
