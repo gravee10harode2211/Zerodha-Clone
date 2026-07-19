@@ -13,7 +13,7 @@ function Team() {
         <div className="col-6 p-5 text-center">
           <img
             src="/media/images/nithinKamath.jpg"
-            alt="people image"
+            alt="people"
             style={{ borderRadius: "100%", width: "50%" }}
           />
           <h4 className="mt-5">Nithin Kamath</h4>
@@ -33,13 +33,13 @@ function Team() {
           <p>Playing basketball is his zen.</p>
           <p>
             Connect on{" "}
-            <a className="p-3" style={{ textDecoration: "none" }} href="#">
+            <a className="p-3" style={{ textDecoration: "none" }} href="/">
               HomePage /
             </a>
-            <a style={{ textDecoration: "none" }} className="p-3" href="#">
+            <a style={{ textDecoration: "none" }} className="p-3" href="/">
               TradingQ&A /
             </a>
-            <a style={{ textDecoration: "none" }} className="p-3" href="#">
+            <a style={{ textDecoration: "none" }} className="p-3" href="/">
               Twitter
             </a>
           </p>

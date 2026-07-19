@@ -16,7 +16,7 @@ function Hero() {
       </div>
       <div className="row p-5 mt-5 text-center">
         <div className="col-4 p-4">
-          <img src="media\images\pricingEquity.svg" />
+          <img src="media\images\pricingEquity.svg" alt="pricing" />
           <h1 className="fs-3">Free quity delivery</h1>
           <p className="text-muted">
             All equity investments (NSE, BSE), are absolutely free-{" "}
@@ -28,7 +28,7 @@ function Hero() {
           </p>
         </div>
         <div className="col-4 p-4">
-          <img src="media/images/intradayTrades.svg" />
+          <img src="media/images/intradayTrades.svg" alt="pricing"/>
           <h1 className="fs-3">Intraday and F&Q trades</h1>
           <p className="text-muted">
             Flat{" "}
@@ -41,7 +41,7 @@ function Hero() {
           </p>
         </div>
         <div className="col-4 p-4">
-          <img src="media/images/pricingEquity.svg" />
+          <img src="media/images/pricingEquity.svg" alt="pricing" />
           <h1 className="fs-3">Free direct MF</h1>
           <p className="text-muted">
             All direct mutual fund investments are absolutely free-{" "}

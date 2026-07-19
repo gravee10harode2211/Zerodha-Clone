@@ -1,10 +1,10 @@
 import React from "react";
-import Navbar from "../Navbar";
+
 import Hero from "./Hero";
 import LeftSection from "./LeftSection";
 import RightSection from "./RightSection";
 import Universe from "./Universe";
-import Footer from "../Footer";
+
 
 function ProductPage() {
   return (
@@ -51,7 +51,7 @@ function ProductPage() {
       />
       <p className="text-center">
         Want to know more about our teachnology stack? check out the{" "}
-        <a href="#">zerodha.tech blog</a>
+        <a href="/">zerodha.tech blog</a>
       </p>
 
       <Universe />

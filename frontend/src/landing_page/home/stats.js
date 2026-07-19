@@ -35,11 +35,11 @@ function Stats() {
           />
 
           <div className="text-center">
-            <a href="#" className="mx-5" style={{ textDecoration: "none" }}>
+            <a href="/" className="mx-5" style={{ textDecoration: "none" }}>
               {" "}
               Explore our Products <i class="fa-solid fa-arrow-right"></i>
             </a>
-            <a href="#" style={{ textDecoration: "none" }}>
+            <a href="/" style={{ textDecoration: "none" }}>
               Try Kite Demo <i class="fa-solid fa-arrow-right"></i>
             </a>
           </div>

@@ -11,7 +11,7 @@ function Universe() {
         </p>
 
         <div style={{ textAlign: "center" }} className="col-4 p-4 mt-5">
-          <img src="media/images/smallcaseLogo.png" />
+          <img src="media/images/smallcaseLogo.png" alt="samllcaseLogo" />
           <p className="text-muted text-small p-3">
             {" "}
             Thematic investment platform
@@ -21,7 +21,7 @@ function Universe() {
         <div style={{ textAlign: "center" }} className="col-4 p-4 mt-5 ">
           <img
             style={{ height: "52px", width: "199px" }}
-            src="media/images/streakLogo.png"
+            src="media/images/streakLogo.png" alt="streakLogo"
           />
           <p className="text-muted text-small  p-3">Algo & strategy platform</p>
         </div>
@@ -29,7 +29,7 @@ function Universe() {
         <div style={{ textAlign: "center" }} className="col-4 p-4 mt-5">
           <img
             style={{ height: "52px", width: "199px" }}
-            src="media/images/sensibullLogo.svg"
+            src="media/images/sensibullLogo.svg" alt="sensibullLogo"
           />
           <p className="text-muted text-small p-3"> Options trading platfrom</p>
         </div>
@@ -37,7 +37,7 @@ function Universe() {
         <div style={{ textAlign: "center" }} className="col-4 p-4 mt-2">
           <img
             style={{ height: "52px", width: "199px" }}
-            src="media/images/zerodhaFundhouse.png"
+            src="media/images/zerodhaFundhouse.png" alt="zerodhafundHouse"
           />
           <p className="text-muted text-small p-3"> Assest management</p>
         </div>
@@ -45,7 +45,7 @@ function Universe() {
         <div style={{ textAlign: "center" }} className="col-4 p-4 mt-2">
           <img
             style={{ height: "52px", width: "199px" }}
-            src="media/images/goldenpiLogo.png"
+            src="media/images/goldenpiLogo.png" alt="goldenpiLogo"
           />
           <p className="text-muted text-small p-3">Bonds trading platfrom</p>
         </div>
@@ -53,7 +53,7 @@ function Universe() {
         <div style={{ textAlign: "center" }} className="col-4 p-4   mt-2 ">
           <img
             style={{ height: "52px", width: "199px" }}
-            src="media\images\dittoLogo.png"
+            src="media\images\dittoLogo.png" alt="dittoLogo"
           />
           <p className="text-muted text-small p-4">Insurence</p>
         </div>

@@ -6,6 +6,7 @@ function Education() {
         <div className="col-6">
           <img
             src="/media/images/education.svg"
+            alt="education"
             style={{ width: "70%" }}
             className="ml-5"
           />
@@ -16,7 +17,7 @@ function Education() {
             Varsity, the largest online stock market education book in the world
             covering everything from the basics to avanced trading
           </p>
-          <a href="" style={{ textDecoration: "none" }}>
+          <a href="/" style={{ textDecoration: "none" }}>
             versity <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
           </a>
           <p className="mt-5">
@@ -24,7 +25,7 @@ function Education() {
             Trading Q&A, the most active trading and investment community in
             India for all your market related quiries.
           </p>
-          <a href="" style={{ textDecoration: "none" }}>
+          <a href="/" style={{ textDecoration: "none" }}>
             TradingQ&A <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
           </a>
         </div>
