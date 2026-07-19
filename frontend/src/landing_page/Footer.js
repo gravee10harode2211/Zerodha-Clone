@@ -30,7 +30,7 @@ function Footer() {
             <a
               className="text-muted"
               style={{ textDecoration: "none" }}
-              href=""
+              href="/"
             >
               About
             </a>
@@ -39,7 +39,7 @@ function Footer() {
             <a
               className="text-muted"
               style={{ textDecoration: "none" }}
-              href=""
+              href="/"
             >
               Products
             </a>
@@ -47,7 +47,7 @@ function Footer() {
             <a
               className="text-muted "
               style={{ textDecoration: "none" }}
-              href=""
+              href="/"
             >
               Pricing
             </a>
@@ -55,7 +55,7 @@ function Footer() {
             <a
               className="text-muted "
               style={{ textDecoration: "none" }}
-              href=""
+              href="/"
             >
               Referral programs
             </a>
@@ -63,7 +63,7 @@ function Footer() {
             <a
               className="text-muted "
               style={{ textDecoration: "none" }}
-              href=""
+              href="/"
             >
               Careers
             </a>
@@ -71,7 +71,7 @@ function Footer() {
             <a
               className="text-muted "
               style={{ textDecoration: "none" }}
-              href=""
+              href="/"
             >
               Zerodha.tech
             </a>
@@ -79,7 +79,7 @@ function Footer() {
             <a
               className="text-muted "
               style={{ textDecoration: "none" }}
-              href=""
+              href="/"
             >
               Press & media
             </a>
@@ -87,7 +87,7 @@ function Footer() {
             <a
               className="text-muted "
               style={{ textDecoration: "none" }}
-              href=""
+              href="/"
             >
               Zerodha cares(CSR)
             </a>
@@ -96,11 +96,10 @@ function Footer() {
           <div className="col">
             <p>Support</p>
             <a
+             
               className="text-muted "
               style={{ textDecoration: "none" }}
-              className="text-muted "
-              style={{ textDecoration: "none" }}
-              href=""
+              href="/"
             >
               Contact
             </a>
@@ -108,7 +107,7 @@ function Footer() {
             <a
               className="text-muted "
               style={{ textDecoration: "none" }}
-              href=""
+              href="/"
             >
               Support portal
             </a>
@@ -116,7 +115,7 @@ function Footer() {
             <a
               className="text-muted "
               style={{ textDecoration: "none" }}
-              href=""
+              href="/"
             >
               Z-Connect blog
             </a>
@@ -124,7 +123,7 @@ function Footer() {
             <a
               className="text-muted "
               style={{ textDecoration: "none" }}
-              href=""
+              href="/"
             >
               List of charges
             </a>
@@ -132,7 +131,7 @@ function Footer() {
             <a
               className="text-muted "
               style={{ textDecoration: "none" }}
-              href=""
+              href="/"
             >
               Downloads & resources
             </a>
@@ -143,7 +142,7 @@ function Footer() {
             <a
               className="text-muted "
               style={{ textDecoration: "none" }}
-              href=""
+              href="/"
             >
               Open an account
             </a>
@@ -151,7 +150,7 @@ function Footer() {
             <a
               className="text-muted "
               style={{ textDecoration: "none" }}
-              href=""
+              href="/"
             >
               Fund trasfer
             </a>
@@ -159,7 +158,7 @@ function Footer() {
             <a
               className="text-muted "
               style={{ textDecoration: "none" }}
-              href=""
+              href="/"
             >
               60 day challenge
             </a>
@@ -210,49 +209,49 @@ function Footer() {
             <a
               className="text-muted p-4"
               style={{ textDecoration: "none" }}
-              href=""
+              href="/"
             >
               NSE
             </a>
             <a
               className="text-muted p-4"
               style={{ textDecoration: "none" }}
-              href=""
+              href="/"
             >
               BSE
             </a>
             <a
               className="text-muted p-4"
               style={{ textDecoration: "none" }}
-              href=""
+              href="/"
             >
               MCX
             </a>
             <a
               className="text-muted p-4"
               style={{ textDecoration: "none" }}
-              href=""
+              href="/"
             >
               Terms&conditions
             </a>
             <a
               className="text-muted p-4"
               style={{ textDecoration: "none" }}
-              href=""
+              href="/"
             >
               Policies&Procedures
             </a>
             <a
               className="text-muted p-4"
               style={{ textDecoration: "none" }}
-              href=""
+              href="/"
             >
               Privacy policy
             </a>
             <a
               className="text-muted p-4"
               style={{ textDecoration: "none" }}
-              href=""
+              href="/"
             >
               Disclosure
             </a>
