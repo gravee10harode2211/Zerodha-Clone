@@ -2,14 +2,14 @@ import React, { useState } from "react";
 import { useContext } from "react";
 import GeneralContext from "./GeneralContext";
 
-import { Tooltip, Grow } from "@mui/material";
+import { Tooltip} from "@mui/material";
 import { watchlist } from "../data/data";
 import {
   BarChartOutlined,
   KeyboardArrowDown,
   KeyboardArrowUp,
   MoreHoriz,
-  Toll,
+  
 } from "@mui/icons-material";
 import { DoughnutChart } from "./DoughnoutChart";
 
